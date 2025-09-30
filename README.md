@@ -81,5 +81,3 @@ Purpose
 Showcase a working NL → SPARQL → Wikidata pipeline.
 
 Demonstrate ability to combine NLP preprocessing, knowledge graph querying, and API integration.
-
-Intended for learning and recruitment demonstration.
